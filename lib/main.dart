@@ -10,9 +10,9 @@ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   final List<Map<String, dynamic>> students = const [
-    {'name': 'John Doe', 'course': 'BSCS', 'age': '21'},
-    {'name': 'Cyrel Genosas', 'course': 'BSIT', 'age': '20'},
-    {'name': 'Michael Johnson', 'course': 'BSCS', 'age': '19'},
+    {'name': 'John Viel', 'course': 'BSCS', 'age': '21'},
+    {'name': 'JV ', 'course': 'BSIT', 'age': '20'},
+    {'name': 'Ampong', 'course': 'BSCS', 'age': '19'},
   ];
 
   @override
